@@ -1,9 +1,7 @@
 function Home() {
   return (
     <h1>
-      {" "}
-      Priscila é o amor da minha vida, caso tenha visto essa mensagem mande um
-      coraçãozin no meu zap{" "}
+      Izaak é um fresquin,  e não quero nada de vasco na minha vida.
     </h1>
   );
 }
